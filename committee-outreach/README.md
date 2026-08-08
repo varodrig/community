@@ -18,9 +18,10 @@ The current membership of the committee is (listed alphabetically by first name)
 
 ### Leads Representatives
 
-| Name     | Organization | GitHub                                        | Role              |
-| -------- | ------------ | --------------------------------------------- | ----------------- |
-| Yash Pal |              | [yashpal2104](https://github.com/yashpal2104) | Social Media Lead |
+| Name            | Organization | GitHub                                        | Role              |
+| --------------- | ------------ | --------------------------------------------- | ----------------- |
+| Yash Pal        |              | [yashpal2104](https://github.com/yashpal2104) | Outreach Lead |
+| Dominik Kawka   |              | [dominikkawka](https://github.com/dominikkawka) | Outreach Lead |
 
 ## Meetings
 
